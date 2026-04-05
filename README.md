@@ -1,4 +1,4 @@
-# AI Agent Projects 🚀
+# AI Agent Projects 
 
 ## 🔹 Track 1
 Build & Deploy AI Agents using Gemini, ADK, Cloud Run
@@ -9,9 +9,9 @@ MCP-based agents with BigQuery & Google Maps
 ## 🔹 Track 3
 AI-powered app using AlloyDB
 
-## 🚀 Deployment Link
+##  Deployment Link
 https://agentflow-ai-uc.a.run.app
 
-## 👨‍💻 Author
+##  Author
 Prajwal HM  
 https://github.com/prajwal578
